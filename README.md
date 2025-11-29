@@ -11,7 +11,7 @@ Lo anterior quiere decir que, si se crea una pie de página, en lugar de encerra
 
 ## Instrucciones para su ejecución
 Al tratarse de un sitio web alojado en GitHub Pages, únicamente se debe acceder al siguiente enlace:  
-[El Rincón de mi Nostalgia](link)
+[El Rincón de mi Nostalgia]([link](https://kyevegz.github.io/proyectoModulo1CarrilloCastillo.github.io/))
 
 ## Sobre el autor
 La programación de la estructura HTML y CSS, así como el contenido escrito y algunas de las fotografías, se atribuye a mi persona, Jimena Carrillo Castillo.  
